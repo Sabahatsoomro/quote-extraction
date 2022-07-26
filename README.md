@@ -1,4 +1,4 @@
-# Journalism AI – Quotes extraction for modular journalism
+# Quotes extraction for text data
 
 This repo contains the code for [the Guardian](https://www.theguardian.com) and [AFP](https://www.afp.com/) contribution for the [JournalismAI Festival 2021](https://www.journalismaifestival.com/).
 
